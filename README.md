@@ -10,7 +10,7 @@ This document provides a detailed overview of the "STUDIO" website project, a su
 
 ## Live Demo
 
-[A live demo of the project can be accessed here.](https://your-live-demo-link.com) *(Please replace with your actual deployment link.)*
+[A live demo of the project can be accessed here.]((https://pixxelhack1.netlify.app/)) *(Please replace with your actual deployment link.)*
 
 ## Project Description
 
